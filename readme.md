@@ -1,0 +1,1 @@
+Project to display google reviews of a given places in a summarized way
